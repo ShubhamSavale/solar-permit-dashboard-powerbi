@@ -2,7 +2,7 @@
 Power BI dashboard to analyze solar equipment and project performance
 
 ## 📌 Objective
-This dashboard analyzes and visualizes solar permit project data using Power BI. It helps in understanding regional installation trends, panel/inverter usage patterns, and team performance insights for solar design operations.
+This dashboard analyzes and visualizes solar permit project data using Power BI. It helps understand regional installation trends and panel/inverter usage patterns for solar design operations.
 
 ## 🛠️ Tools Used
 - Power BI
@@ -15,15 +15,14 @@ This dashboard analyzes and visualizes solar permit project data using Power BI.
 - Panel Brand, Inverter Brand  
 - Number of Panels  
 - System Capacity (kW)  
-- Designer, QC Person  
-- Project Status (Completed, In Progress)
+
 
 ## 📈 Key Visualizations
 - Total Projects, Average System Capacity (KPI Cards)  
 - Projects by City/State (Bar Chart + Map)  
 - Panel Brand Distribution (Pie Chart)  
 - Designer-wise Performance (Stacked Bar)  
-- Filter options for Panel Brand, QC Person, Location  
+- Filter options for Panel Brand, Location  
 
 ## ✨ Sample Visual
 ![Dashboard Preview](./visuals/dashboard_screenshot.png)
