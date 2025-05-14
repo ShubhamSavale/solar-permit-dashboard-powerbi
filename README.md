@@ -29,7 +29,7 @@ This dashboard analyzes and visualizes solar permit project data using Power BI.
 - Filter options for States, Utility  
 
 ## ✨ Sample Visual  
-![Dashboard Preview](Solar%20Estique%20Project%20Insights%20Dashboard_Image.jpg){ width=600px }
+![Dashboard Preview](Solar%20Estique%20Project%20Insights%20Dashboard_Image.jpg)
 
 ## Key Insights
 
