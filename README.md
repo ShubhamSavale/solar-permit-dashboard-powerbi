@@ -19,13 +19,12 @@ This dashboard analyzes and visualizes solar permit project data using Power BI.
 
 ## 📈 Key Visualizations
 - Total Projects, Average System Capacity (KPI Cards)  
-- Projects by City/State (Bar Chart + Map)  
-- Panel Brand Distribution (Pie Chart)  
-- Designer-wise Performance (Stacked Bar)  
-- Filter options for Panel Brand, Location  
+- Projects by State (Bar Chart)  
+- Panel Brand Distribution (Pie Chart)   
+- Filter options for States, Utility  
 
 ## ✨ Sample Visual
-![Dashboard Preview](./visuals/dashboard_screenshot.png)
+![Dashboard Preview](./visuals/Solar Estique Project Insights Dashboard_Image.jpg)
 
 ## 🧠 Learnings
 - Learned to structure and clean real-world operational data from my current job  
