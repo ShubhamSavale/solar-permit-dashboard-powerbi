@@ -28,6 +28,6 @@ This dashboard analyzes and visualizes solar permit project data using Power BI.
 
 ## 🧠 Learnings
 - Learned to structure and clean real-world operational data from my current job  
-- Practiced Power BI data modeling, visuals, DAX, and dashboard storytelling  
+- Practiced Power BI data modeling, visuals, and dashboard storytelling  
 - Understood how to present KPIs and breakdowns for non-technical teams  
 
