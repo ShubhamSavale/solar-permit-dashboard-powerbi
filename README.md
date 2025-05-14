@@ -23,8 +23,8 @@ This dashboard analyzes and visualizes solar permit project data using Power BI.
 - Panel Brand Distribution (Pie Chart)   
 - Filter options for States, Utility  
 
-## ✨ Sample Visual
-![Dashboard Preview](./visuals/Solar Estique Project Insights Dashboard_Image.jpg)
+## ✨ Sample Visual  
+![Dashboard Preview](Solar%20Estique%20Project%20Insights%20Dashboard_Image.jpg)
 
 ## 🧠 Learnings
 - Learned to structure and clean real-world operational data from my current job  
